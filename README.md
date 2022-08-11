@@ -1,7 +1,7 @@
 # Crop-Recommendation-System-
 Crop Recommendation System based on Features
 
-# Simplilearn Certification Programme
+# Simplilearn Certification Program
 
 ![image](https://user-images.githubusercontent.com/66784537/183085724-17260acc-2b5c-44a3-a049-410f813f0eee.png)
 
